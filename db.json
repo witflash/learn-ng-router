@@ -1,0 +1,126 @@
+{
+  "articles": [
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Euan McKirdy, CNN",
+      "title": "Pakistan Taliban leader linked to Malala attack reportedly killed",
+      "description":
+        "A US drone strike in Afghanistan's northeastern Kunar province has killed a leading militant, who was the man in charge of the Pakistan Taliban's (TTP) operations in the Swat Valley when activist Malala Yousafzai was shot in 2012, according to a Afghan govern…",
+      "url": "https://www.cnn.com/2018/06/15/asia/us-drone-strike-pakistan-taliban-intl/index.html",
+      "urlToImage":
+        "https://cdn.cnn.com/cnnnext/dam/assets/180615155026-mullah-fazlullah-super-tease.jpg",
+      "publishedAt": "2018-06-15T13:04:00+00:00"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "ABC News",
+      "title": "The Latest: Officials say mines, bombs kill dozens in Yemen",
+      "description":
+        "The Latest on the battle for Hodeida in Yemen (all times local): 2:45 p.m. Yemeni officials say dozens of coalition-backed fighters have been killed mostly by Shiite rebel Houthi land mines and roadside bombs as fighting outside the airport of Hodeida intensi…",
+      "url":
+        "https://abcnews.go.com/International/wireStory/latest-emerati-official-battle-hodeida-key-55914618",
+      "urlToImage":
+        "https://s.abcnews.com/images/International/WireAP_e3bd00aceaf14049a59f88e0c4f7bc90_16x9_992.jpg",
+      "publishedAt": "2018-06-15T12:46:00+00:00"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "https://www.nytimes.com/by/ana-swanson",
+      "title": "U.S. to Put Tariffs on $50 Billion in Chinese Goods as Trade Fight Widens",
+      "description":
+        "The step by the Trump administration threatened to shift what had primarily been a war of words between Washington and Beijing into a full-blown trade war.",
+      "url": "https://www.nytimes.com/2018/06/15/us/politics/us-china-tariffs-trade.html",
+      "urlToImage":
+        "https://static01.nyt.com/images/2018/06/16/business/16dc-chinatariffs/merlin_139440552_024d2e14-61eb-43b8-a4d3-870619ee1d7d-facebookJumbo.jpg",
+      "publishedAt": "2018-06-15T12:15:59+00:00"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title":
+        "‘A total disaster’: Trump weighs in on report critical of FBI, highlights a damaging finding",
+      "description":
+        "Taking to Twitter, the president made his first comments on findings related to the handling of Hillary Clinton’s emaill probe.",
+      "url":
+        "https://www.washingtonpost.com/politics/a-total-disaster-trump-weighs-in-on-report-critical-of-fbi-highlights-a-damaging-finding/2018/06/15/c8314390-7082-11e8-bf86-a2351b5ece99_story.html",
+      "urlToImage":
+        "https://www.washingtonpost.com/resizer/sQyOb13CFd1C0vDY3-BadQk0OG0=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LSX5FYSTUYI6RJWUZIOQGVSCZY.jpg",
+      "publishedAt": "2018-06-15T11:48:51+00:00"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Andy Eckardt, Alastair Jamieson, Reuters",
+      "title": "Germany's Merkel faces political crisis over migrant policy",
+      "description":
+        "German Chancellor Angela Merkel faces a showdown with her own interior minister that threatens her fragile alliance — and her dominance of European politics.",
+      "url":
+        "https://www.nbcnews.com/storyline/europes-border-crisis/germany-s-merkel-faces-political-crisis-over-migrant-policy-n883441",
+      "urlToImage":
+        "https://media2.s-nbcnews.com/j/newscms/2018_24/2465951/180614-angela-merkel-mc-1107_fe96fd895d3bac42ff46f6f9e1306cfe.1200;630;7;70;5.JPG",
+      "publishedAt": "2018-06-15T11:34:17+00:00"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "ABC News",
+      "title": "The Latest: Activists say 2 killed by Syria shelling",
+      "description":
+        "The Latest on Eid al-Fitr (all times local): 3 p.m. Syrian activists say two people were killed when the government shelled a cemetery where they were visiting the graves of their relatives on the first day of the Eid al-Fitr holiday. Mahmoud al-Hamawi says t…",
+      "url":
+        "https://abcnews.go.com/International/wireStory/latest-iranian-leader-praises-citizens-eid-al-fitr-55913692",
+      "urlToImage":
+        "https://s.abcnews.com/images/International/WireAP_3aca11e4e35447abb2cadbc13d8abb1d_16x9_992.jpg",
+      "publishedAt": "2018-06-15T11:10:12+00:00"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "CBS News",
+      "title":
+        "Daytona Beach roller coaster that derailed reportedly had a spotty maintenance record",
+      "description":
+        "Officials say two riders fell from the front car of the Sand Blaster and dropped more than 30 feet to the ground below",
+      "url":
+        "https://www.cbsnews.com/news/daytona-beach-boardwalk-roller-coaster-derailment-sand-blaster-spotty-record/",
+      "urlToImage":
+        "https://cbsnews3.cbsistatic.com/hub/i/r/2018/06/15/e807c8a6-0c97-45ab-97ca-738ffa9efa32/thumbnail/1200x630/0fb433e1f450e3cf665ca7859a182c62/daytona-beach-roller-coaster-rescue-2018-06-14.jpg",
+      "publishedAt": "2018-06-15T11:07:00+00:00"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author":
+        "http://www.nytimes.com/by/eric-lipton, http://www.nytimes.com/by/steve-eder, https://www.nytimes.com/by/lisa-friedman, http://www.nytimes.com/by/hiroko-tabuchi",
+      "title": "For Pruitt Aides, the Boss’s Personal Life Was Part of the Job",
+      "description":
+        "Senior staff members at the E.P.A. said they frequently felt pressured by Scott Pruitt to help in nonwork matters and obtain favors for his family.",
+      "url": "https://www.nytimes.com/2018/06/15/us/politics/scott-pruitt-epa-aides.html",
+      "urlToImage":
+        "https://static01.nyt.com/images/2018/06/14/us/00reg-pruitt1/00reg-pruitt1-facebookJumbo.jpg",
+      "publishedAt": "2018-06-15T09:01:17+00:00"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "CBS News",
+      "title":
+        "Michael Cohen seeking restraining order against Michael Avenatti, Stormy Daniels' lawyer",
+      "description":
+        "It would force Michael Avenatti to stop speaking to the press; Avenatti calls request \"complete joke\"",
+      "url":
+        "https://www.cbsnews.com/news/michael-cohen-restraining-order-tonight-michael-avenatti-stormy-daniels-attorney-2016-06-14/",
+      "urlToImage":
+        "https://cbsnews2.cbsistatic.com/hub/i/r/2018/04/17/ce9b1f34-3b4d-4501-9642-025e9ee0c0ca/thumbnail/1200x630/482e586cc6ac52643486964c4efc4d23/ap-18106773188658.jpg",
+      "publishedAt": "2018-06-15T04:52:13+00:00"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title":
+        "Analysis | Recidivism Watch: Trump administration again blames others for its own family separation policy",
+      "description":
+        "Trump and his advisers keep saying the law forces them to separate immigrant families at the border. No law requires this.",
+      "url":
+        "https://www.washingtonpost.com/news/fact-checker/wp/2018/06/14/recidivism-watch-trump-administration-again-blames-others-for-its-own-family-separation-policy/",
+      "urlToImage":
+        "https://www.washingtonpost.com/resizer/PkwMNj1tcb9R5pob4PoNVtAtcYg=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EJBWRBASDY7PFNFTKXZQIMTYBA.jpg",
+      "publishedAt": "2018-06-15T01:23:16+00:00"
+    }
+  ]
+}
