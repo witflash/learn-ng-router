@@ -8,10 +8,10 @@
 
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav">
-      <a class="nav-item nav-link active" routerLink="/">Home <span class="sr-only">(current)</span></a>
-      <a class="nav-item nav-link" routerLink="/blog">Blog</a>
-      <a class="nav-item nav-link" routerLink="/about">About</a>
-      <a class="nav-item nav-link" routerLink="/search">Search</a>
+      <a class="nav-item nav-link" routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{exact:true}">Home <span class="sr-only">(current)</span></a>
+      <a class="nav-item nav-link" routerLink="/blog" routerLinkActive="active">Blog</a>
+      <a class="nav-item nav-link" routerLink="/about" routerLinkActive="active">About</a>
+      <a class="nav-item nav-link" routerLink="/search" routerLinkActive="active">Search</a>
     </div>
   </div>
 </nav>

@@ -8,14 +8,13 @@ import { Article } from "../article";
   styleUrls: ['./blog.component.scss']
 })
 export class BlogComponent implements OnInit {
-  allNews: Article[] = [];
+  public allNews: Article[] = [];
 
   constructor(private apiService: ApiService) { }
 
   ngOnInit() {
     this.apiService.getAllNews().subscribe(allNews => {
       this.allNews = allNews;
-      console.log('this.allNews: ', this.allNews);
     });
   }
 

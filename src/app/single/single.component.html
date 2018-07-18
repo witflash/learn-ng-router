@@ -1,3 +1,12 @@
-<p>
-  single works!
-</p>
+<article class="container">
+  <div *ngIf="post.published" class="text-right mb-2"><time>{{ post.published }}</time></div>
+  <img *ngIf="post.url" src="{{ post.url }}" alt="{{ post.source }}" class="img-fluid">
+  <h1 *ngIf="post.title" class="pt-4 mb-3">{{ post.title }}</h1>
+  <p *ngIf="post.desc">{{ post.desc }}</p>
+  <p *ngIf="post.source"><small>Source: {{ post.source }}</small></p>
+
+  <div class="btn-group">
+    <button class="btn btn-primary" (click)="routing.goHome()">Go home</button>
+    <button class="btn btn-secondary" (click)="routing.goToPage('/blog')"> Back to the Blog</button>
+  </div>
+</article>

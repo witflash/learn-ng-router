@@ -19,6 +19,7 @@ const appRoutes: Routes = [
   { path: '', component: HomeComponent},
   { path: 'about', component: AboutComponent},
   { path: 'blog', component: BlogComponent},
+  { path: 'blog/:id', component: SingleComponent},
   { path: 'search', component: SearchComponent},
   { path: '**', component: NotfoundComponent}
 ]

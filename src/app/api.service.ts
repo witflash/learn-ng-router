@@ -27,6 +27,17 @@ export class ApiService {
       .pipe(catchError(this.handleError));
   }
 
+  public getNewsById(id: number): Observable<Article> {
+    return this.http
+      .get(API_URL + "/articles/" + id)
+      .pipe(
+        map(response => {
+          return new Article(response.json());
+        })
+      )
+      .pipe(catchError(this.handleError));
+  }
+
   private handleError(error: Response | any) {
     console.error("ApiService::handleError", error);
     return Observable.throw(error);
